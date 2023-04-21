@@ -17,3 +17,11 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mehrdadr01&show_icons=true&theme=gotham" alt="Mehrdadr01" />
 -->
+## Mo Projects 
+  
+ <h4>Decentralized exchange <h4/>
+   <a href="https://github.com/Mehrdadr01/myDex">Mydex<a/>
+     <p>A decentralized exchange for ethereum supporting ERC20 token swap and trade <p/>
+     <p> Chart , Trade list , Sell and Buy orders , Metamask wallet <p/>
+ <h4>NFT minting Contracts<h4/>
+   
